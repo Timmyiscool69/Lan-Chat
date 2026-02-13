@@ -1,0 +1,5 @@
+c:\Users\tommy\OneDrive\Documents\cool\Output\LanChatSetup.exe
+c:\Users\tommy\OneDrive\Documents\cool\Output\LanChatSetup.dll
+c:\Users\tommy\OneDrive\Documents\cool\Output\LanChatSetup.deps.json
+c:\Users\tommy\OneDrive\Documents\cool\Output\LanChatSetup.runtimeconfig.json
+c:\Users\tommy\OneDrive\Documents\cool\Output\LanChatSetup.pdb

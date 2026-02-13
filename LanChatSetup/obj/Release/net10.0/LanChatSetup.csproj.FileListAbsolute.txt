@@ -1,0 +1,14 @@
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\bin\Release\net10.0\LanChatSetup.exe
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\bin\Release\net10.0\LanChatSetup.deps.json
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\bin\Release\net10.0\LanChatSetup.runtimeconfig.json
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\bin\Release\net10.0\LanChatSetup.dll
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\bin\Release\net10.0\LanChatSetup.pdb
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\obj\Release\net10.0\LanChatSetup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\obj\Release\net10.0\LanChatSetup.AssemblyInfoInputs.cache
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\obj\Release\net10.0\LanChatSetup.AssemblyInfo.cs
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\obj\Release\net10.0\LanChatSetup.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\obj\Release\net10.0\LanChatSetup.dll
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\obj\Release\net10.0\refint\LanChatSetup.dll
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\obj\Release\net10.0\LanChatSetup.pdb
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\obj\Release\net10.0\LanChatSetup.genruntimeconfig.cache
+C:\Users\tommy\OneDrive\Documents\cool\LanChatSetup\obj\Release\net10.0\ref\LanChatSetup.dll
