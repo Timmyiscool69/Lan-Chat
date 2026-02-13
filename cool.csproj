@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <!-- App Metadata -->
+    <AssemblyName>LanChat</AssemblyName>
+    <Product>Lan Chat</Product>
+    <Title>Lan Chat</Title>
+    <Description>Local network chat application for instant messaging</Description>
+    <Company>Tim OS</Company>
+    <Version>1.0.0</Version>
+
+    <!-- Single-file .exe -->
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>true</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    
+    <!-- Publishing configuration -->
+    <PublishTrimmed>false</PublishTrimmed>
+    <PublishReadyToRun>true</PublishReadyToRun>
+    <DebugType>embedded</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Toolkit.Uwp.Notifications" Version="7.1.3" />
+  </ItemGroup>
+
+  <!-- Include lanchat.ico and set it as the application icon -->
+  <ItemGroup>
+    <None Include="lanchat.ico" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <ApplicationIcon>lanchat.ico</ApplicationIcon>
+    <Win32Icon>lanchat.ico</Win32Icon>
+  </PropertyGroup>
+
+</Project>
